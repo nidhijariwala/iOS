@@ -1,6 +1,5 @@
 //
 //  ServerListData.swift
-//  WindScribeDemo
 //
 //  Created by Nidhi Jariwala on 2021-06-03.
 //

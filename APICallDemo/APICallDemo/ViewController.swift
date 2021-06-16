@@ -1,6 +1,5 @@
 //
 //  ViewController.swift
-//  WindScribeDemo
 //
 //  Created by Nidhi Jariwala on 2021-05-29.
 //
